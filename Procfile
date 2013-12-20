@@ -1,1 +1,1 @@
-web: web: gunicorn gettoknow:app
+web: gunicorn gettoknow:app
