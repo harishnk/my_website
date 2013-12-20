@@ -1,1 +1,1 @@
-web: python gettoknow.py
+web: python gettoknow.py runserver -p $PORT

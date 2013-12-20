@@ -1,9 +1,9 @@
-import os
-import json
-import feedparser
-import urllib
-from urllib2 import urlopen
-import HTMLParser
+#import os
+#import json
+# import feedparser
+# import urllib
+# from urllib2 import urlopen
+# import HTMLParser
 
 # figure out what dir we are in (needed to load other files when deploying to a server)
 #basedir = os.path.dirname(os.path.abspath(__file__))
