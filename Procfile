@@ -1,1 +1,1 @@
-web: python gettoknow.py runserver -p $PORT
+web: web: gunicorn gettoknow:app
