@@ -7,7 +7,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return render_template("stories.html") #,
+    #return render_template("stories.html") #,
+	return render_template("resume.html")
     #     country_list_json_text=json.dumps(globalvoices.country_list())
     # )
 
